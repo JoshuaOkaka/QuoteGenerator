@@ -4,43 +4,44 @@ let qoute =document.querySelector('.qoute');
 let person =document.querySelector('.person');
 
 const qoutes = [{
-    'qoutes':'""Facilis quaerat molestiae, explicabo fuga repudiandae quod eaque itaque veritatis""',
-    'person':'Abraham lincon'
+    'qoutes':'""No amount of experimentation can ever prove me right; a single experiment can prove me wrong.""',
+    'person':'Albert Einstein'
 },{
-    'qoutes':'""elit.Facilis quaerat molestiae, explicabo fuga repudiandae quod eaque itaque veritatis""',
-    'person':'Steve Jobs'   
+    'qoutes':'""Science without religion is lame, religion without science is blind.""',
+    'person':'Albert Einstein'   
 }
 ,{
-    'qoutes':' ""coetur adipisinsectcing elit.Facilis quaerat molestiae, explicabo fuga repudiandae quod eaque itaque veritatis""',
-    'person':'Tim Cook'   
+    'qoutes':' ""Somewhere, something incredible is waiting to be known.""',
+    'person':'Carl Sagan'   
 }
 ,{
-    'qoutes':' ""ipisicing elit.Facilis quaerat molestiae, explicabo fuga repudiandae quod eaque itaque veritatis""',
-    'person':'Elon Musk'   
+    'qoutes':' ""Science is a way of thinking much more than it is a body of knowledge""',
+    'person':'Carl Sagan'   
 }
 ,{
-    'qoutes':'""it amet consectetur adipisicing elit.Facilis quaerat molestiae, explicabo fuga repudiandae quod eaque itaque veritatis""',
-    'person':'Kenye West'   
+    'qoutes':'""By denying scientific principles, one may maintain any paradox.""',
+    'person':'Galileo Galilei'   
 }
 ,{
-    'qoutes':' ""adipisicing elit.Facilis quaerat molestia quod eaque itaque veritatis""',
-    'person':'Steve Roger'   
+    'qoutes':' ""Geologists have a saying—rocks remember""',
+    'person':'Neil Armstrong'   
 }
 ,{
-    'qoutes':'""Lorem ipsum explicabo fuga repudiandae quod eaque itaque veritatis""',
-    'person':'Bruce Banner'   
+    'qoutes':'""Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.""',
+    'person':'Marie Curie'
+     
 }
 ,{
-    'qoutes':'""L consectetur adipisicing elit.Facilis quaerat molestiae, explicabo fuga repudiandae quod eaque itaque veritatis""',
-    'person':'Tony Stark'   
+    'qoutes':'""A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die and a new generation grows up that is familiar with it""',
+    'person':'Max Planck'   
 }
 ,{
-    'qoutes':'""tur adipisicing elit.Facilis quaerat molestiae, explicabo fuga repudiandae quod eaque itaque veritatis""',
-    'person':'Kelvin Hart '   
+    'qoutes':'""Science does not know its debt to imagination""',
+    'person':'Ralph Waldo Emerson '   
 }
 ,{
-    'qoutes':' ""quaerat molestiae, explicabo fuga repudiandae quod eaque itaque veritatis""',
-    'person':'Andrew Tate'   
+    'qoutes':' ""Science never solves a problem without creating ten more""',
+    'person':'George Bernard Shaw'   
 }
 ];
 
